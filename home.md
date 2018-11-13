@@ -1,4 +1,4 @@
-|**Programmable Web Project** *Spring 2019*|
+|**Programmable Web Project** *Spring 2019*||
 | :--------------------------------------: |
 |**Group Number**|                             |
 |**Project title** |                           |
