@@ -1,5 +1,5 @@
 |**Programmable Web Project** *Spring 2019*||
-| :--------------------------------------: |
+| :--------------------------------------: || 
 |**Group Number**|                             |
 |**Project title** |                           |
 |Author 1 name|                            |
