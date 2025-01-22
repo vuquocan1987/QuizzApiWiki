@@ -60,7 +60,9 @@ A really short version of an overview for the RESTful Web API could be:
 
 ---
 
-:pencil2: *Write your description here*
+:pencil2: The Quiz API offers functionalities for query and update and manage quizzes of the system. The quizzes are organized by categorizes and levels. Each quizz contains a multiple choice question with multiple options and one or more correct answers.
+
+The quizzes accessibility are managed by a separate authentication system. Only people or service with admin access level are authorized to delete add or update the quizzes. The API is part of an application that provide quizzs for users on multiple topics with the goal of building users mastery through active learning. 
 
 ---
 
@@ -89,8 +91,7 @@ This section is important because it outlines the concepts that you will later i
 
 ---
 
-:pencil2: *Write your text here and draw the diagram*
-
+:pencil2: The API allows authenticated entities to manage quiz categories by adding, editing, or deleting them. Each categories should have the name and the range of the level of its quizzes. Authenticated entities can all so edit/update/delete the individual quizzes. The users can access to the quizzes based on accesibility , but the client are expected to handle the logic of such as hidden answer to users and scoring mechanism.
 ---
 
 ## API uses
@@ -107,7 +108,7 @@ Describe at least one client and one service that could use your Web API. You mu
 
 ---
 
-:pencil2: *Write your text here*
+:pencil2: The client could be the mobile application of the user that access to our API to query quizzes categories or individual quizzes. Quizzes generating system can access the API to manage quizzes automatically by adding, updating and deleting quiz, ensure the integrity and update.
 
 
 
