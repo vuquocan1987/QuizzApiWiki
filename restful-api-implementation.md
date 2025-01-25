@@ -238,8 +238,8 @@ Explain your authentication scheme here. Describe the authentication requirement
 ## Resources allocation
 |**Task** | **Student**|**Estimated time**|
 |:------: |:----------:|:----------------:|
-|||| 
-|||| 
+|Initilize Git|An Vu|30 minutes| 
+|Initilize Rough API describe |An Vu|90 minutes| 
 |||| 
 |||| 
 

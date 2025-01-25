@@ -301,8 +301,8 @@ The Quizlet API is used by mobile and web apps designed for learning, where user
 ## Resources allocation
 |**Task** | **Student**|**Estimated time**|
 |:------: |:----------:|:----------------:|
-|||| 
-|||| 
+|Initilize Git|An Vu|30 minutes| 
+|Rough API describe,overall idea |An Vu|90 minutes| 
 |||| 
 |||| 
 |||| 
