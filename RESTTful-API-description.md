@@ -305,8 +305,8 @@ AI Usage - Used ChatGPT for redefining and formatting our content.
 |Initilize Git|An Vu|30 minutes| 
 |Rough API describe,overall idea |An Vu|90 minutes| 
 |Overview|Bharathi Sekar|30 minutes| 
-|Main Concepts and relations|Bharathi Sekar|50 minutes|
-|Related Work|Bharathi Sekar|20 minutes|
+|Main Concepts and relations|Bharathi Sekar|30 minutes|
+|Related Work, API Uses|Bharathi Sekar|50 minutes|
 |Overview|Chamudi Vidanagama|30 minutes| 
-|Main Concepts and relations, Diagram|Chamudi Vidanagama|50 minutes| 
-|Related Work|Chamudi Vidanagama|20 minutes|
+|Main Concepts and relations, Diagram|Chamudi Vidanagama|30 minutes| 
+|Related Work, API Uses|Chamudi Vidanagama|50 minutes|
