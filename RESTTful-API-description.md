@@ -294,6 +294,7 @@ The Quizlet API is a REST API which supports Create, Read, Update, and Delete op
 
 The Quizlet API is used by mobile and web apps designed for learning, where users can practice with flashcards or quizzes across different subjects.
 
+AI Usage - Used ChatGPT for redefining and formatting our content.
 
 ---
 
@@ -303,6 +304,6 @@ The Quizlet API is used by mobile and web apps designed for learning, where user
 |:------: |:----------:|:----------------:|
 |Initilize Git|An Vu|30 minutes| 
 |Rough API describe,overall idea |An Vu|90 minutes| 
-|||| 
-|||| 
-|||| 
+|Overview|Bharathi Sekar|30 minutes| 
+|Main Concepts and relation|Bharathi Sekar|50 minutes| 
+|Diagram|Chamudi|| 
