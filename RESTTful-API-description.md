@@ -306,5 +306,7 @@ AI Usage - Used ChatGPT for redefining and formatting our content.
 |Rough API describe,overall idea |An Vu|90 minutes| 
 |Overview|Bharathi Sekar|30 minutes| 
 |Main Concepts and relations|Bharathi Sekar|50 minutes|
-|Overview|Chamudi|30 minutes| 
-|Main Concepts and relations, Diagram|Chamudi|50 minutes| 
+|Related Work|Bharathi Sekar|20 minutes|
+|Overview|Chamudi Vidanagama|30 minutes| 
+|Main Concepts and relations, Diagram|Chamudi Vidanagama|50 minutes| 
+|Related Work|Chamudi Vidanagama|20 minutes|
